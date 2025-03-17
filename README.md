@@ -13,7 +13,7 @@ In this notebook, we process and prepare the UK Financial Sanctions List for com
 
 # Requirements
 
-Ensure you have the following Python libraries installed:
+Ensure you have Python 3.12 as well as the following libraries installed:
 - numpy
 - pandas
 - jupyter
